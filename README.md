@@ -1,4 +1,4 @@
 # noppakorn-test
 
 ## Add picture
- <img src="myrobot.png">
+ <img src="images/myrobot.png">

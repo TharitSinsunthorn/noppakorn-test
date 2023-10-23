@@ -3,4 +3,4 @@
 ## Add picture
  <img src="images/myrobot.png">
  
- My name is akiyoshi 
+ My name is Keita 

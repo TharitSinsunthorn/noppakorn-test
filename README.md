@@ -4,9 +4,11 @@
  <img src="images/myrobot.png">
 
 ## Add GIF
-<img src=trot2.gif width="320" height="180"/>
+<p align="center">
+	<img src=trot2.gif width="320" height="180"/>
+	<img src=crawl_gait2.gif width="320" height="180"/>
+</p>
 
-![](https://github.com/TharitSinsunthorn/noppakorn-test/blob/develop/crawl_gait2.gif)
 
  My name is Jun
 

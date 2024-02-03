@@ -15,9 +15,9 @@ crawl gait(left) and trot gait(right)
 
 
 ## Packages description 
-#### moonbot_description
-URDF and mesh files for moonbot, Launch file and RVIZ configuration for visualizing the moonbot model
+#### * moonbot_description
+	   URDF and mesh files for moonbot, Launch file and RVIZ configuration for visualizing the moonbot model
 
-#### moonbot_gazebo
-Model and world file for gazebo simulator. 
+#### * moonbot_gazebo
+	   Model and world file for gazebo simulator. 
 

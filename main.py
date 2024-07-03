@@ -1,2 +1,4 @@
 ## whatsuo main
-"Hi world"
+H = "Hi world"
+
+print(H)

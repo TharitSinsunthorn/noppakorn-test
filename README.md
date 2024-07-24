@@ -22,9 +22,9 @@ crawl gait(left) and trot gait(right)
 &ensp;&ensp;Model and world file for gazebo simulator. 
 
 <p align="left">
-  <img src="https://github.com/TharitSinsunthorn/noppakorn-test/blob/develop/selfrecog.gif" alt="Moonbot's self-recognition" width="100mm">
+  <img src="https://github.com/TharitSinsunthorn/noppakorn-test/blob/develop/selfrecog.gif" alt="Moonbot's self-recognition" width="10mm">
 </p>
 
 <p align="right">
-  <img src="https://github.com/TharitSinsunthorn/noppakorn-test/blob/develop/selfrecog2.gif" alt="Moonbot's self-recognition" width="100mm">
+  <img src="https://github.com/TharitSinsunthorn/noppakorn-test/blob/develop/selfrecog2.gif" alt="Moonbot's self-recognition" width="10mm">
 </p>
